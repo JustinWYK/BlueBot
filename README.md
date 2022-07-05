@@ -5,6 +5,9 @@
 ### This bot is used in Blue's Builds[1] discord server. It's a [Wynncraft](https://wynncraft.com) discord server featuring many builds for all classes. The bot's main purpose is to make users search builds easily and quick.
 
 
+#### [invite if you're interested in joining the server](https://discord.gg/pBmcXY8H9U)
+
+
 
 
 
