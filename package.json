@@ -1,0 +1,25 @@
+{
+  "name": "bluebot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JustinWYK",
+  "license": "ISC",
+  "dependencies": {
+    "discord-fetch-all": "^3.0.2",
+    "discord.js": "^13.6.0"
+  },
+  "description": "![Logo](https://cdn.discordapp.com/attachments/850478394382614549/978063030682255382/wynnbuilder_logo_blue.png)",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinWYK/BlueBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JustinWYK/BlueBot/issues"
+  },
+  "homepage": "https://github.com/JustinWYK/BlueBot#readme"
+}
